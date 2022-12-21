@@ -5,6 +5,7 @@ const App = () => {
 	return (
 		<BrowserRouter>
 			<Navbar />
+			<h1>hola</h1>
 		</BrowserRouter>
 	);
 };
