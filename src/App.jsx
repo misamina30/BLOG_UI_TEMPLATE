@@ -4,9 +4,7 @@ import { BrowserRouter } from 'react-router-dom/dist';
 const App = () => {
 	return (
 		<BrowserRouter>
-			
-				<Navbar />
-			
+			<Navbar />
 		</BrowserRouter>
 	);
 };
