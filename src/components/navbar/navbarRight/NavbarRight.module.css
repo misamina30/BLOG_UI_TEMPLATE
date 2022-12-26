@@ -3,10 +3,10 @@
 }
 
 .containerList {
+	align-items: center;
 	display: flex;
 	gap: 10px;
 	padding: 0;
-	list-style: none;
-	align-items: center;
 	justify-content: center;
+	list-style: none;
 }
