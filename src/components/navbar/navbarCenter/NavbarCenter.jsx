@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import styles from './navbarCenter.module.css';
+import styles from './NavbarCenter.module.css';
 
 const NavbarCenter = () => {
 	return (
