@@ -4,7 +4,7 @@ import styles from './NavbarCenter.module.css';
 const NavbarCenter = () => {
 	return (
 		<div className={styles.container}>
-			<ul className={styles.lista}>
+			<ul className={styles.list}>
 				<li className={styles.links}>
 					<Link to='/'>HOME</Link>
 				</li>
