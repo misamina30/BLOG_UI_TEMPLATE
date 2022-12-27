@@ -1,7 +1,7 @@
 const About = () => {
 	return (
 		<div>
-			<h1>estoy en el abaut</h1>
+			<h1>estamos en el about</h1>
 		</div>
 	);
 };
