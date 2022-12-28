@@ -7,7 +7,7 @@ const NavbarLeft = () => {
 				href='https://www.facebook.com/'
 				target='_blank'
 				rel='noopener noreferrer'
-				className={styles.iconos}
+				className={styles.icons}
 			>
 				<i className='fab fa-facebook-square'></i>
 			</a>
@@ -15,7 +15,7 @@ const NavbarLeft = () => {
 				href='https://www.instagram.com/'
 				target='_blank'
 				rel='noopener noreferrer'
-				className={styles.iconos}
+				className={styles.icons}
 			>
 				<i className='fa-brands fa-square-instagram'></i>
 			</a>
@@ -23,7 +23,7 @@ const NavbarLeft = () => {
 				href='https://ar.pinterest.com/'
 				target='_blank'
 				rel='noopener noreferrer'
-				className={styles.iconos}
+				className={styles.icons}
 			>
 				<i className='fa-brands fa-square-pinterest'></i>
 			</a>
@@ -31,7 +31,7 @@ const NavbarLeft = () => {
 				href='https://twitter.com/?lang=es'
 				target='_blank'
 				rel='noopener noreferrer'
-				className={styles.iconos}
+				className={styles.icons}
 			>
 				<i className='fa-brands fa-square-twitter'></i>
 			</a>
