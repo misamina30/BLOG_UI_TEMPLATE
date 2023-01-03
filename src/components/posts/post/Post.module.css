@@ -23,15 +23,16 @@
 	overflow: hidden;
 }
 
-hr {
+.hr {
 	border: 0;
 }
 
-img {
+.images {
 	border-radius: 7px;
-	object-fit: cover;
 	height: 280px;
 	width: 375px;
+	align-items: center;
+	display: flex;
 }
 
 .info {
