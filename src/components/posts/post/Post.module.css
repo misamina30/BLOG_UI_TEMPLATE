@@ -28,11 +28,11 @@
 }
 
 .images {
+	align-items: center;
 	border-radius: 7px;
+	display: flex;
 	height: 280px;
 	width: 375px;
-	align-items: center;
-	display: flex;
 }
 
 .info {

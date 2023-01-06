@@ -7,12 +7,12 @@ const Posts = () => {
 		<div className={styles.container}>
 			{posts.map((post, index) => (
 				<Post
-					key={index}
 					category={post.category}
 					image={post.image}
+					key={index}
+					overview={post.overview}
 					time={post.time}
 					title={post.title}
-					overview={post.overview}
 				/>
 			))}
 		</div>
