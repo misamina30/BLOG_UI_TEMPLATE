@@ -1,11 +1,11 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom/dist';
 import Navbar from './components/navbar/navbar';
-import About from './pages/about';
-import Home from './pages/home';
-import Contact from './pages/contact';
-import Write from './pages/write';
-import Login from './pages/login';
-import Register from './pages/register';
+import About from './pages/about/About';
+import Home from './pages/home/Home';
+import Contact from './pages/contact/Contact';
+import Write from './pages/write/Write';
+import Login from './pages/login/Login';
+import Register from './pages/register/Register';
 import './App.css';
 
 const App = () => {
